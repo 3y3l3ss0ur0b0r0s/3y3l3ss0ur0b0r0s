@@ -1,6 +1,6 @@
 👋 Hi, I’m <b>@3y3l3ss0ur0b0r0s</b>! I am a former CS student and a current social worker. 🙂
 <ul>
-  <li>👀 I’m mostly interested in web development, Discord bots, automating processes, and building games/toys (e.g., visual novels, mobile apps).</li>
+  <li>👀 I’m mostly interested in web development, Discord bots, automating processes, and building games/toys (e.g., visual novels, mobile apps). I'm also into art; I draw a bit and am a beginner at 3D modeling and animation (Blender).</li>
   <li><b>🌱 My learning list is below!</b></li>
     <ul>
       <li><b>Currently learning:</b> Python, HTML & CSS</li>
