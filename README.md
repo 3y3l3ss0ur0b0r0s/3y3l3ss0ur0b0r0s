@@ -8,7 +8,7 @@
       <li><b>Stuff I've learned some of (but abandoned):</b> Java, C++, ActionScript 3.0</li>
     </ul>
   </li>
-  <li><b>🤝 I’m looking to collaborate on</b> web development projects, Discord bots, games, anything to help me learn!</li>
+  <li><b>🤝 I’m looking to collaborate on</b> web development projects, Discord bots, games, anything to help me learn! Let me know if there's anything I can do for you!</li>
   <li><b>📫 You can reach me at</b> danielle.bertulfo.coding@gmail.com. 😀</li>
 </ul>
 
