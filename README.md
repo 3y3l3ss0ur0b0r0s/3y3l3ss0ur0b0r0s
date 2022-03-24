@@ -2,7 +2,7 @@
 
 - **👀 I’m mostly interested in** web development, Discord bots, automating processes, and building games/toys (e.g., visual novels, mobile apps). I'm also into art; I draw a bit and am a beginner at 3D modeling and animation (*Blender*).
 - **🛠I'm currently working on**
-  - A sudoku solver terminal-based application in Python
+  - A sudoku puzzle solving terminal-based application in Python
   - A survey form in HTML & CSS (freeCodeCamp Responsive Web Design project)
   - A JavaScript Algorithms and Data Structures (freeCodeCamp course)
 - **🌱 My learning list is below!**
