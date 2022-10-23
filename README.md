@@ -5,11 +5,11 @@
   - A sudoku puzzle solving terminal-based application in Python
   - A product landing page in HTML & CSS (freeCodeCamp Responsive Web Design project)
   - JavaScript Algorithms and Data Structures (freeCodeCamp course)
-  - Game Development in JS (Solo Learn course)
+  - Game Development in JS (Sololearn course)
   - 😆 Leetcode easies
 - **🌱 My learning list is below!**
   - [X] **Currently learning:** *Python*, *HTML & CSS*, *JavaScript*
-  - [ ] **Pending:** *PHP*, *SQL*
+  - [ ] **Pending:** *PHP*, *MySQL*
   - [X] **Dabbled in:** *Java*, *C++*, *ActionScript 3.0*
 - **🤝 I’m looking to collaborate on** web development projects, Discord bots, games, anything to help me learn! Let me know if there's anything I can do for you!
 - **📫 You can reach me on Discord at:** gummy#8571. 😀
