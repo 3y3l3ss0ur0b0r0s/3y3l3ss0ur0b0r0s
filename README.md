@@ -3,8 +3,8 @@
 - **👀 I’m mostly interested in** game development, but I'm studying other things because I need a job... I'm also into art; I draw a bit and am a beginner at 3D modeling and animation (*Blender*).
 - **🛠I'm currently working on**
   - freeCodeCamp, general programming and software engineering concepts, transferring to an online school for Software Engineering, and a bunch of other irrelevant things. 😀
-- **🌱 My current CS-related learning list is below!**
-  - *Python*, *JavaScript*, *C# (for Unity)*, *C++*, *ActionScript 3.0*, *Bootstrap*, *jQuery*, *Sass*, *HTML5 & CSS*, *React & Redux*, *PostgreSQL*, *Java*, *Unix & Linux CLI*, *basic networking*, *data structures & algorithms*, *basic computer architecture*
+- **🌱 Languages I'm working with**
+  - *Python*, *JavaScript*, *C#*, *C++*, *HTML5 & CSS*, *PostgreSQL*, *SQL*, *SQLite*, *Java*
 - **🤝 I’m looking to collaborate on** web development projects, games, Discord bots, anything to help me learn! Let me know if there's anything I can do for you!
 - **📫 You can reach me on Discord at:** gummy.world. 😀
 
