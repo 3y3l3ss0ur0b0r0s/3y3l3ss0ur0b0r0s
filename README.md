@@ -2,7 +2,7 @@
 
 - **👀 I’m mostly interested in:** game development, but I'm also interested in QA and test automation, as well as developing with C#! I'm also into art; I draw a bit and am a beginner at 3D modeling and animation (*Blender*).
 - **🛠I'm currently working on:** LeetCode, (12/2023) BS in Software Engineering, and personal projects & courses
-- **🌱 Languages I work with:** C#; JavaScript, Python, & C++; HTML & CSS
+- **🌱 Languages I work with:** C#; Groovy; JavaScript, Python, & C++; HTML & CSS
 - **🤝 I’m looking to collaborate on:** web development projects, games, Discord bots, anything to help me learn! Let me know if there's anything I can do for you!
 - **📫 You can reach me on Discord at:** gummy.world 😀
 
